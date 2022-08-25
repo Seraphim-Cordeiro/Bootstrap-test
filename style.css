@@ -1,0 +1,27 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-image: url('barrier2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+main {
+    background-color: #66383f;
+    height: auto;
+}
+
+aside {
+    background-color: #d1879d;
+    height: auto;
+}
+
+footer {
+    background-image: url('barrier1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+}
